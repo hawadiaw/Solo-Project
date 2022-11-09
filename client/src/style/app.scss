@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #ceb8b8;
+}
+
+@import "./form";
+@import "./post";
+@import "./posts";
+@import "./home";
+@import "./nav";
+@import "./editform";
